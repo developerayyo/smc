@@ -1,0 +1,167 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 30/11/2020 05:59
+  	*/
+
+    @font-face {
+      font-family: "Flaticon";
+      src: url("../fonts/Flaticon.eot");
+      src: url("../fonts/Flaticond41d.eot?#iefix") format("embedded-opentype"),
+           url("../fonts/Flaticon.woff2") format("woff2"),
+           url("../fonts/Flaticon.woff") format("woff"),
+           url("../fonts/Flaticon.ttf") format("truetype"),
+           url("../fonts/Flaticon.svg#Flaticon") format("svg");
+      font-weight: normal;
+      font-style: normal;
+    }
+    
+    @media screen and (-webkit-min-device-pixel-ratio:0) {
+      @font-face {
+        font-family: "Flaticon";
+        src: url("../fonts/Flaticon.svg#Flaticon") format("svg");
+      }
+    }
+    
+    [class^="pbmit-doctery-icon-"]:before, [class*=" pbmit-doctery-icon-"]:before,
+    [class^="pbmit-doctery-icon-"]:after, [class*=" pbmit-doctery-icon-"]:after {   
+      font-family: Flaticon;
+    font-style: normal;
+    }
+    
+    .pbmit-doctery-icon-plastic-surgery:before { content: "\f100"; }
+    .pbmit-doctery-icon-doctor:before { content: "\f101"; }
+    .pbmit-doctery-icon-doctor-1:before { content: "\f102"; }
+    .pbmit-doctery-icon-calendar:before { content: "\f103"; }
+    .pbmit-doctery-icon-nose:before { content: "\f104"; }
+    .pbmit-doctery-icon-ear:before { content: "\f105"; }
+    .pbmit-doctery-icon-brain:before { content: "\f106"; }
+    .pbmit-doctery-icon-tooth:before { content: "\f107"; }
+    .pbmit-doctery-icon-pimples:before { content: "\f108"; }
+    .pbmit-doctery-icon-fetus:before { content: "\f109"; }
+    .pbmit-doctery-icon-headache:before { content: "\f10a"; }
+    .pbmit-doctery-icon-heart:before { content: "\f10b"; }
+    .pbmit-doctery-icon-smile:before { content: "\f10c"; }
+    .pbmit-doctery-icon-sore-throat:before { content: "\f10d"; }
+    .pbmit-doctery-icon-dentist:before { content: "\f10e"; }
+    .pbmit-doctery-icon-mask:before { content: "\f10f"; }
+    .pbmit-doctery-icon-blood-transfusion:before { content: "\f110"; }
+    .pbmit-doctery-icon-urine:before { content: "\f111"; }
+    .pbmit-doctery-icon-fertilization:before { content: "\f112"; }
+    .pbmit-doctery-icon-pills:before { content: "\f113"; }
+    .pbmit-doctery-icon-nose-1:before { content: "\f114"; }
+    .pbmit-doctery-icon-deaf:before { content: "\f115"; }
+    .pbmit-doctery-icon-compress:before { content: "\f116"; }
+    .pbmit-doctery-icon-inhaler:before { content: "\f117"; }
+    .pbmit-doctery-icon-liver:before { content: "\f118"; }
+    .pbmit-doctery-icon-bonnet:before { content: "\f119"; }
+    .pbmit-doctery-icon-dentist-tools:before { content: "\f11a"; }
+    .pbmit-doctery-icon-pills-1:before { content: "\f11b"; }
+    .pbmit-doctery-icon-toothbrush:before { content: "\f11c"; }
+    .pbmit-doctery-icon-medicine:before { content: "\f11d"; }
+    .pbmit-doctery-icon-brackets:before { content: "\f11e"; }
+    .pbmit-doctery-icon-tooth-1:before { content: "\f11f"; }
+    .pbmit-doctery-icon-breasts:before { content: "\f120"; }
+    .pbmit-doctery-icon-kidney:before { content: "\f121"; }
+    .pbmit-doctery-icon-colon:before { content: "\f122"; }
+    .pbmit-doctery-icon-lips:before { content: "\f123"; }
+    .pbmit-doctery-icon-prothesis:before { content: "\f124"; }
+    .pbmit-doctery-icon-sperm:before { content: "\f125"; }
+    .pbmit-doctery-icon-hospital:before { content: "\f126"; }
+    .pbmit-doctery-icon-stomach:before { content: "\f127"; }
+    .pbmit-doctery-icon-lungs:before { content: "\f128"; }
+    .pbmit-doctery-icon-sperm-1:before { content: "\f129"; }
+    .pbmit-doctery-icon-ultrasonography:before { content: "\f12a"; }
+    .pbmit-doctery-icon-ampoul:before { content: "\f12b"; }
+    .pbmit-doctery-icon-pregnancy-test:before { content: "\f12c"; }
+    .pbmit-doctery-icon-uterus:before { content: "\f12d"; }
+    .pbmit-doctery-icon-medicine-1:before { content: "\f12e"; }
+    .pbmit-doctery-icon-hospital-bed:before { content: "\f12f"; }
+    .pbmit-doctery-icon-syringe:before { content: "\f130"; }
+    .pbmit-doctery-icon-blind:before { content: "\f131"; }
+    .pbmit-doctery-icon-ambulance:before { content: "\f132"; }
+    .pbmit-doctery-icon-cardiogram:before { content: "\f133"; }
+    .pbmit-doctery-icon-stethoscope:before { content: "\f134"; }
+    .pbmit-doctery-icon-scalpel:before { content: "\f135"; }
+    .pbmit-doctery-icon-medicine-2:before { content: "\f136"; }
+    .pbmit-doctery-icon-sample:before { content: "\f137"; }
+    .pbmit-doctery-icon-hair:before { content: "\f138"; }
+    .pbmit-doctery-icon-first-aid-kit:before { content: "\f139"; }
+    .pbmit-doctery-icon-eye:before { content: "\f13a"; }
+    .pbmit-doctery-icon-injury:before { content: "\f13b"; }
+    .pbmit-doctery-icon-crutch:before { content: "\f13c"; }
+    .pbmit-doctery-icon-oxygen:before { content: "\f13d"; }
+    .pbmit-doctery-icon-syringe-1:before { content: "\f13e"; }
+    .pbmit-doctery-icon-walker:before { content: "\f13f"; }
+    .pbmit-doctery-icon-stretcher:before { content: "\f140"; }
+    .pbmit-doctery-icon-hospital-1:before { content: "\f141"; }
+    .pbmit-doctery-icon-wheelchair:before { content: "\f142"; }
+    .pbmit-doctery-icon-dental-floss:before { content: "\f143"; }
+    .pbmit-doctery-icon-medicine-3:before { content: "\f144"; }
+    .pbmit-doctery-icon-defribillator:before { content: "\f145"; }
+    .pbmit-doctery-icon-tooth-2:before { content: "\f146"; }
+    .pbmit-doctery-icon-injury-1:before { content: "\f147"; }
+    .pbmit-doctery-icon-tonometer:before { content: "\f148"; }
+    .pbmit-doctery-icon-dental-drill:before { content: "\f149"; }
+    .pbmit-doctery-icon-pharmacy:before { content: "\f14a"; }
+    .pbmit-doctery-icon-optical:before { content: "\f14b"; }
+    .pbmit-doctery-icon-eye-drops:before { content: "\f14c"; }
+    .pbmit-doctery-icon-drop-counter:before { content: "\f14d"; }
+    .pbmit-doctery-icon-helicopter:before { content: "\f14e"; }
+    .pbmit-doctery-icon-ribbon:before { content: "\f14f"; }
+    .pbmit-doctery-icon-scissors:before { content: "\f150"; }
+    .pbmit-doctery-icon-tongs:before { content: "\f151"; }
+    .pbmit-doctery-icon-doctor-2:before { content: "\f152"; }
+    .pbmit-doctery-icon-medicine-4:before { content: "\f153"; }
+    .pbmit-doctery-icon-band-aid:before { content: "\f154"; }
+    .pbmit-doctery-icon-thermometer:before { content: "\f155"; }
+    .pbmit-doctery-icon-tablets:before { content: "\f156"; }
+    .pbmit-doctery-icon-edema:before { content: "\f157"; }
+    .pbmit-doctery-icon-medicine-5:before { content: "\f158"; }
+    .pbmit-doctery-icon-map:before { content: "\f159"; }
+    .pbmit-doctery-icon-smiling:before { content: "\f15a"; }
+    .pbmit-doctery-icon-pill:before { content: "\f15b"; }
+    .pbmit-doctery-icon-hospital-2:before { content: "\f15c"; }
+    .pbmit-doctery-icon-checked:before { content: "\f15d"; }
+    .pbmit-doctery-icon-hospital-bed-1:before { content: "\f15e"; }
+    .pbmit-doctery-icon-cardiogram-1:before { content: "\f15f"; }
+    .pbmit-doctery-icon-pills-2:before { content: "\f160"; }
+    .pbmit-doctery-icon-disinfection:before { content: "\f161"; }
+    .pbmit-doctery-icon-medical-research:before { content: "\f162"; }
+    .pbmit-doctery-icon-medical-equipment:before { content: "\f163"; }
+    .pbmit-doctery-icon-medical-laboratory:before { content: "\f164"; }
+    .pbmit-doctery-icon-panel:before { content: "\f165"; }
+    .pbmit-doctery-icon-thermometer-1:before { content: "\f166"; }
+    .pbmit-doctery-icon-equipment:before { content: "\f167"; }
+    .pbmit-doctery-icon-radiotherapy:before { content: "\f168"; }
+    .pbmit-doctery-icon-serum:before { content: "\f169"; }
+    .pbmit-doctery-icon-first-aid-kit-1:before { content: "\f16a"; }
+    .pbmit-doctery-icon-blood:before { content: "\f16b"; }
+    .pbmit-doctery-icon-dropper:before { content: "\f16c"; }
+    .pbmit-doctery-icon-mri:before { content: "\f16d"; }
+    .pbmit-doctery-icon-angiography:before { content: "\f16e"; }
+    .pbmit-doctery-icon-mri-1:before { content: "\f16f"; }
+    .pbmit-doctery-icon-phone-call:before { content: "\f170"; }
+    .pbmit-doctery-icon-ambulance-1:before { content: "\f171"; }
+    .pbmit-doctery-icon-clock:before { content: "\f172"; }
+    .pbmit-doctery-icon-stethoscope-1:before { content: "\f173"; }
+    .pbmit-doctery-icon-loupe:before { content: "\f174"; }
+    .pbmit-doctery-icon-emergency-call:before { content: "\f175"; }
+    .pbmit-doctery-icon-emergency-call-1:before { content: "\f176"; }
+    .pbmit-doctery-icon-clipboard:before { content: "\f177"; }
+    .pbmit-doctery-icon-stethoscope-2:before { content: "\f178"; }
+    .pbmit-doctery-icon-email:before { content: "\f179"; }
+    .pbmit-doctery-icon-calendar-1:before { content: "\f17a"; }
+    .pbmit-doctery-icon-calendar-2:before { content: "\f17b"; }
+    .pbmit-doctery-icon-file:before { content: "\f17c"; }
+    .pbmit-doctery-icon-pdf:before { content: "\f17d"; }
+    .pbmit-doctery-icon-approved-signal:before { content: "\f17e"; }
+    .pbmit-doctery-icon-medal:before { content: "\f17f"; }
+    .pbmit-doctery-icon-patient:before { content: "\f180"; }
+    .pbmit-doctery-icon-information:before { content: "\f181"; }
+    .pbmit-doctery-icon-location:before { content: "\f182"; }
+    .pbmit-doctery-icon-pin:before { content: "\f183"; }
+    .pbmit-doctery-icon-award:before { content: "\f184"; }
+    .pbmit-doctery-icon-medal-1:before { content: "\f185"; }
+    .pbmit-doctery-icon-headphones:before { content: "\f186"; }
+    .pbmit-doctery-icon-question:before { content: "\f187"; }
+    .pbmit-doctery-icon-caduceus:before { content: "\f188"; }
