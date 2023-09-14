@@ -1,13 +1,6 @@
 name: Optimize images
-on:
-pull_request:
-    branches:
-      - main
-    paths:
-      - '**.jpg'
-      - '**.jpeg'
-      - '**.png'
-      - '**.gif'
+on: pull_request
+
 jobs:
   build:
     name: calibreapp/image-actions
