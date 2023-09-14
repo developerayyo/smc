@@ -2,7 +2,7 @@ name: Optimize images
 on:
 pull_request:
     branches:
-      - master
+      - main
     paths:
       - '**.jpg'
       - '**.jpeg'
